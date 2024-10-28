@@ -1,8 +1,8 @@
 ## Repositories and Resources
-<video width="640" height="360" controls>
-  <source src="demonstration.mp4" type="mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/5aeaa576-e0f6-4416-866f-996f37556286
+
 
 ### Backend Repository
 - **Link**: [NeuralKnights Gold Root Backend](https://github.com/swarup-2004/NeuralKnights-Gold-Root-Backend-.git)
